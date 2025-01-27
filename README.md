@@ -1,5 +1,5 @@
 # 👋🏻 Hi There
-I'm an undergraduate student majoring in Information Technology with a passion for Web Development. I have the ability to work on various projects and explore different technologies. I'm always eager to learn and innovate in the ever-evolving tech landscape! 🚀
+I'm **AGUNG LAKSONO PUTRA**, am an undergraduate student majoring in Information Technology with a passion for Web Development. I have the ability to work on various projects and explore different technologies. I'm always eager to learn and innovate in the ever-evolving tech landscape! 🚀
 
 # 💫 About Me:
 📖 Currently I am studying at Telkom University  
