@@ -2,7 +2,15 @@
 I'm an undergraduate student majoring in Information Technology with a passion for Web Development. I have the ability to work on various projects and explore different technologies. I'm always eager to learn and innovate in the ever-evolving tech landscape! 🚀
 
 # 💫 About Me:
-📖 Currently I am studying at Telkom University<br>🌱 I'am currently learning Laravel, Tailwind, Java, and Spring  
+📖 Currently I am studying at Telkom University  
+
+🔭 I’m currently working on **[Panen Lokal](https://github.com/agunglaksonoputra/P1-E-Commerce-PanenLokal.git)**  
+
+🌱 I'am currently learning **Laravel, Tailwind, Java, and Spring**  
+
+📫 How to reach me **alpsosial@gmail.com**  
+
+⚡ Fun fact **I think I am try hard**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alp.147) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agunglaksonoputra) 
