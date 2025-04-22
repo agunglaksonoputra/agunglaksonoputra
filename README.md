@@ -4,7 +4,7 @@ I'm **AGUNG LAKSONO PUTRA**, am an undergraduate student majoring in Information
 # 💫 About Me:
 📖 Currently I am studying at Telkom University  
 
-🔭 I’m currently working on **[Panen Lokal](https://github.com/agunglaksonoputra/P1-E-Commerce-PanenLokal.git)**  
+🔭 I’m currently working on **[Senada](https://github.com/agunglaksonoputra/senada-project.git)**  
 
 🌱 I'am currently learning **Laravel, Tailwind, Java, and Spring**  
 
