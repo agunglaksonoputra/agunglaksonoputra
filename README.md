@@ -4,9 +4,9 @@ I'm **AGUNG LAKSONO PUTRA**, am an undergraduate student majoring in Information
 # 💫 About Me:
 📖 Currently I am studying at Telkom University  
 
-🔭 I’m currently working on **[Senada](https://github.com/agunglaksonoputra/senada-project.git)**  
+🔭 I’m currently working on **[SakuTani](https://github.com/agunglaksonoputra/SakuTani.git)**  
 
-🌱 I'am currently learning **Laravel, Tailwind, Java, and Spring**  
+🌱 I'am currently learning **Laravel, Tailwind, Flutter, React, and NodeJS**  
 
 📫 How to reach me **alpsosial@gmail.com**  
 
